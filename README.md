@@ -26,7 +26,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Node Js](https://nodejs.org/es/)
 * [Documentacion Oficial de ReactJS](https://es.reactjs.org/)
-
+* [React Developer Tools - Extension de Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es)
 
 
 ## Comandos 
