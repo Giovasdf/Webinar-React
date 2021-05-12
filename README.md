@@ -13,7 +13,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
-    <li><a href="#instalacion">Urls de Instalacion</a></li>
+    <li><a href="#instalacion">Urls Importantes!</a></li>
     <li><a href="#Comandos">Comandos</a></li>
     <li><a href="#extensiones">Extensiones de VS Code</a></li>
   </ol>
@@ -25,7 +25,7 @@
 
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Node Js](https://nodejs.org/es/)
-* [Documentacion Oficional de ReactJS](https://es.reactjs.org/)
+* [Documentacion Oficial de ReactJS](https://es.reactjs.org/)
 
 
 
@@ -57,7 +57,7 @@ Para Crear un proyecto nuevo usamos el comando
    ```sh
     code .
   ```
-      Una vez en VS Code, podemos escribir el siguiente comando para levantar nuestra pagina web
+    Una vez en VS Code, podemos escribir el siguiente comando para levantar nuestra pagina web
    ```sh
       npm start
   ```
