@@ -61,6 +61,10 @@ Para Crear un proyecto nuevo usamos el comando
    ```sh
       npm start
   ```
+    Agregar React Hooks
+   ```sh
+      npm install react-hook-form
+  ```
 
 
 ## Extensiones de Visual Studio Code
