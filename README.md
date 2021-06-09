@@ -75,6 +75,9 @@ Para Crear un proyecto nuevo usamos el comando
 * Simple React Snippets
 * vscode-icons
 
+## Ejemplo pull request
+
+Esta pull request fue hecha por un alumno!
 
 
 
